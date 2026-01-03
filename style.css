@@ -1,6 +1,7 @@
 body {
-    background-color: darkkhaki;
-    color: white;
+    background-color: rgba(250, 250, 250);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
 }
 
 .bg-video {
