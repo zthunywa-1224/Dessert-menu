@@ -19,6 +19,16 @@ body {
     object-fit: cover;
 }
 
+.star-rating i {
+    font-size: 30px;
+    color: #ccc;
+    cursor: pointer;
+}
+
+.star-rating i.active {
+    color: #f90;
+}
+
 .bg-video video {
     position: absolute;
     top: 50%;
