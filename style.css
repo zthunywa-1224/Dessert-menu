@@ -26,6 +26,14 @@ body {
 }
 
 .bg-image {
+    background-image: url('assets/image/strawbery-dessert.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 300px;
+    /* adjust height */
+}
+
+.bg-image {
     background-image: url('/assets/image/berry-cool-cream.jpg');
     background-size: cover;
     object-fit: cover;
