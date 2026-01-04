@@ -36,6 +36,13 @@ body {
     height: 200px;
 }
 
+@media (max-width: 768px) {
+    .bg-image {
+        height: 100vh;
+        background-attachment: fixed;
+    }
+}
+
 .star-rating i.active {
     color: #f90;
 }
