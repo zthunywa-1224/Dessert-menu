@@ -25,6 +25,14 @@ body {
     cursor: pointer;
 }
 
+.bg-image {
+    background-image: url('/assets/image/berry-cool-cream.jpg');
+    background-size: cover;
+    object-fit: cover;
+    width: 100%;
+    height: 200px;
+}
+
 .star-rating i.active {
     color: #f90;
 }
