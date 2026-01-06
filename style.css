@@ -25,7 +25,15 @@ body {
     cursor: pointer;
 }
 
+.text-shadow {
+    text-shadow: 2px 2p 4px rgba(0, 0, 0, 0.3);
+}
 
+.bg-shadow {
+    box-shadow: opx 4px 8px rgba(0, 0, 0, 0.2);
+    padding: 10px;
+    background-color: #fff;
+}
 
 .bg-image {
     background-image: url('assets/image/toppish-strawberry-dessert.jpg');
